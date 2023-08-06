@@ -1,2 +1,2 @@
-# wt_pbl
-About_AI
+# Artificial-Intelligence
+A website detailing about Artificial Intelligence 
